@@ -1,0 +1,2179 @@
+[
+  {
+    "name": ".git",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": ".idea",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "Homework1",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "Homework2",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "Homework3",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "Homework4",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "Homework5",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "Homework6",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "Homework7",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "seminar3",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "seminar4",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "seminar5",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "seminar6",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "seminar7",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 147456,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "seminar8",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "seminar9",
+    "path": "C:\\PythonHomeWork_T",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T"
+  },
+  {
+    "name": "hooks",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "info",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "logs",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "objects",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 147456,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "refs",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "COMMIT_EDITMSG",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 4,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "config",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 310,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "description",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 73,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "HEAD",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 21,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "index",
+    "path": "C:\\PythonHomeWork_T\\.git",
+    "size": 3793,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git"
+  },
+  {
+    "name": "applypatch-msg.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 478,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "commit-msg.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 896,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "fsmonitor-watchman.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 4726,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "post-update.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 189,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "pre-applypatch.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 424,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "pre-commit.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 1643,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "pre-merge-commit.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 416,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "pre-push.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 1374,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "pre-rebase.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 4898,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "pre-receive.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 544,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "prepare-commit-msg.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 1492,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "push-to-checkout.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 2783,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "update.sample",
+    "path": "C:\\PythonHomeWork_T\\.git\\hooks",
+    "size": 3650,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\hooks"
+  },
+  {
+    "name": "exclude",
+    "path": "C:\\PythonHomeWork_T\\.git\\info",
+    "size": 240,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\info"
+  },
+  {
+    "name": "refs",
+    "path": "C:\\PythonHomeWork_T\\.git\\logs",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\logs"
+  },
+  {
+    "name": "HEAD",
+    "path": "C:\\PythonHomeWork_T\\.git\\logs",
+    "size": 1808,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\logs"
+  },
+  {
+    "name": "heads",
+    "path": "C:\\PythonHomeWork_T\\.git\\logs\\refs",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\logs\\refs"
+  },
+  {
+    "name": "remotes",
+    "path": "C:\\PythonHomeWork_T\\.git\\logs\\refs",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\logs\\refs"
+  },
+  {
+    "name": "main",
+    "path": "C:\\PythonHomeWork_T\\.git\\logs\\refs\\heads",
+    "size": 1624,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\logs\\refs\\heads"
+  },
+  {
+    "name": "origin",
+    "path": "C:\\PythonHomeWork_T\\.git\\logs\\refs\\remotes",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\logs\\refs\\remotes"
+  },
+  {
+    "name": "main",
+    "path": "C:\\PythonHomeWork_T\\.git\\logs\\refs\\remotes\\origin",
+    "size": 1460,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\logs\\refs\\remotes\\origin"
+  },
+  {
+    "name": "01",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "02",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "03",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "17",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "1c",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "1d",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "21",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "22",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "25",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "30",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "39",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "3b",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "40",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "42",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "48",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "4d",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "4f",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "50",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "57",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "65",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "67",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "68",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "70",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "75",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "79",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "7b",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "80",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "85",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "8b",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "8d",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "8e",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "90",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "93",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "99",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "9a",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "9f",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "a0",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "a5",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "a7",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "ac",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "ae",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "b6",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "bb",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "c0",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "c6",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "ce",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "d2",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "db",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "de",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "e3",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "e4",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "e5",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "e6",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "ee",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "f0",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "f2",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "f6",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "f9",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "info",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "pack",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects"
+  },
+  {
+    "name": "312859bd69c0f5fc447db0069458a9b1371027",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\01",
+    "size": 153,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\01"
+  },
+  {
+    "name": "a64826e2211b75fb07bdc1c1306e7171736a14",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\01",
+    "size": 617,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\01"
+  },
+  {
+    "name": "36398b77fec18c8959f9ff8ea98c39799a0d46",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\02",
+    "size": 701,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\02"
+  },
+  {
+    "name": "920cbf2c89b42fea43e2049f8b7821b7953f59",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\02",
+    "size": 154,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\02"
+  },
+  {
+    "name": "d3ecc76b344c262abe6bd933423b38b59a4467",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\03",
+    "size": 228,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\03"
+  },
+  {
+    "name": "b1d499e062fee00cf6d4c946ad3042f3539ef8",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\17",
+    "size": 45,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\17"
+  },
+  {
+    "name": "f556b5a6525de6e5b31f3eefcf48ad7cec7a13",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\1c",
+    "size": 38,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\1c"
+  },
+  {
+    "name": "673c6d7e63ae2c33eb140bfc0e041e0174530e",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\1d",
+    "size": 327,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\1d"
+  },
+  {
+    "name": "1139200bf1a5a1365e220ae507a9e956d5173a",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\21",
+    "size": 1014,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\21"
+  },
+  {
+    "name": "d3e6d40dc491f83ccf81394c0e5510e306cb10",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\21",
+    "size": 708,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\21"
+  },
+  {
+    "name": "4559cf549235f4b072fd79e2dc7b098aa42ce9",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\22",
+    "size": 79,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\22"
+  },
+  {
+    "name": "a1ad5f731e26b04db95280f80b561818218232",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\25",
+    "size": 1503,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\25"
+  },
+  {
+    "name": "6eb9da0715855df0aaff236cf06b1ff53d9cc5",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\30",
+    "size": 1104,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\30"
+  },
+  {
+    "name": "0e5a64c8c56c21fe0972d206f5e2520a269eea",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\39",
+    "size": 531,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\39"
+  },
+  {
+    "name": "062b0fb54bbd480be61ecc6ea516652085b1b0",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\3b",
+    "size": 519,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\3b"
+  },
+  {
+    "name": "b490f4240a5f3b9eefec1ce6f87a6a862e606c",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\40",
+    "size": 50,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\40"
+  },
+  {
+    "name": "c9e346ec054ae6330347471a07172e7213e1b0",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\42",
+    "size": 309,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\42"
+  },
+  {
+    "name": "854eef391aa69a064814dc40fa90e33c53c1bc",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\48",
+    "size": 72,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\48"
+  },
+  {
+    "name": "b70daab7ff72d10353e72406e7c907d3543677",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\4d",
+    "size": 563,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\4d"
+  },
+  {
+    "name": "92ca174e09ca391c4a509a5f54b7cace9a7f2e",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\4f",
+    "size": 153,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\4f"
+  },
+  {
+    "name": "7c6895c6628cf97f6f164ceebbbd31600396ae",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\50",
+    "size": 182,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\50"
+  },
+  {
+    "name": "87c43b735b61640ec1631ce7bd9e647ec59468",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\50",
+    "size": 131,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\50"
+  },
+  {
+    "name": "3205a5b3a39f0bc37d1eee6bdb9ea2e780f62e",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\57",
+    "size": 107,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\57"
+  },
+  {
+    "name": "c7ab625fd73d363bda6180e25ed4b723d3da6e",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\65",
+    "size": 632,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\65"
+  },
+  {
+    "name": "faecb7bbe58b944fda3b41313c0c96163d16dd",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\65",
+    "size": 192,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\65"
+  },
+  {
+    "name": "ce202e0e9fe28d286d96afa7e92aa844fbd36b",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\67",
+    "size": 110,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\67"
+  },
+  {
+    "name": "745c0e7cd9e0851f08416be3ed5e947b77059b",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\68",
+    "size": 154,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\68"
+  },
+  {
+    "name": "4ec029df9af035175462919cfd58258a349342",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\70",
+    "size": 79,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\70"
+  },
+  {
+    "name": "67af55ada85d6db845bc4e543a0e683b4913db",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\75",
+    "size": 415,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\75"
+  },
+  {
+    "name": "b3b54b9ffdbe429b9bf1b4cb31f1664aeeb29a",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\79",
+    "size": 1068,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\79"
+  },
+  {
+    "name": "2ff21c22c2c39da6a6748e057262e57a275e92",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\7b",
+    "size": 551,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\7b"
+  },
+  {
+    "name": "d27559fb45891ae1929146f51f65dc10ebde66",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\80",
+    "size": 306,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\80"
+  },
+  {
+    "name": "9ab07842a297c18efa5c52c9b5edc1c2552f67",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\85",
+    "size": 838,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\85"
+  },
+  {
+    "name": "a1a59e1a4675e93f7a1f319f26f4d33f3471b9",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\85",
+    "size": 80,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\85"
+  },
+  {
+    "name": "7e5971a4a3ea0ed3ab23238a5869a9db6c0165",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\8b",
+    "size": 242,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\8b"
+  },
+  {
+    "name": "eb2684c6de0993c5535fddb2c5f941863c4adb",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\8d",
+    "size": 303,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\8d"
+  },
+  {
+    "name": "633731f6c6ad111f649f5408f0cd5e6a5b96dd",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\8e",
+    "size": 153,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\8e"
+  },
+  {
+    "name": "6af1168a2e0ab2cd7922ab5fc7027a2675c1be",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\90",
+    "size": 593,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\90"
+  },
+  {
+    "name": "42c1cdc01d6f87cb8ea0a6033bc44d68f3d823",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\93",
+    "size": 106,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\93"
+  },
+  {
+    "name": "668c30768b4f09f3122f5e3011336f21fc3052",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\99",
+    "size": 581,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\99"
+  },
+  {
+    "name": "a8530eee2ec00cd8b803f7a965c555b31511b5",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\99",
+    "size": 207,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\99"
+  },
+  {
+    "name": "af977f6486b6f52608e2049540c5a41a46ba33",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\99",
+    "size": 793,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\99"
+  },
+  {
+    "name": "8e7e4745da2a781e211be6ea30fd23c748d0f3",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\9a",
+    "size": 124,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\9a"
+  },
+  {
+    "name": "06f8501ccab0539874c8db17531796b27ea134",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\9f",
+    "size": 749,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\9f"
+  },
+  {
+    "name": "f58b8857b76b033065b6c0a9f741918997480c",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\9f",
+    "size": 1507,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\9f"
+  },
+  {
+    "name": "8fda077b4b92a3dc80bf2c28c339bb13b9257e",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\a0",
+    "size": 852,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\a0"
+  },
+  {
+    "name": "5a0293b61a8a4335e8a386330779d040e789d7",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\a5",
+    "size": 369,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\a5"
+  },
+  {
+    "name": "6bf5ba6c7a6aa51389b1faacc45bd36f9e07bb",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\a5",
+    "size": 153,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\a5"
+  },
+  {
+    "name": "94fb72e4b4e9fb277ca53531a91667e2b34460",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\a7",
+    "size": 386,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\a7"
+  },
+  {
+    "name": "2ff826d3737b8da30b496fe2d606ade0a0ce15",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\ac",
+    "size": 256,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\ac"
+  },
+  {
+    "name": "3fa4cbd2a5799cf5365d1110a056fc741b64e2",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\ae",
+    "size": 642,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\ae"
+  },
+  {
+    "name": "27298b4f52b6adafc8341da2ff81689dfbd054",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\b6",
+    "size": 102,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\b6"
+  },
+  {
+    "name": "c1c45c95e04d2287d6822b226ef4717224d893",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\bb",
+    "size": 522,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\bb"
+  },
+  {
+    "name": "f24ca1c96e48e396744f1e6c872b1cbbac1025",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\bb",
+    "size": 153,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\bb"
+  },
+  {
+    "name": "8d2b3939f303ca8f157307a1ac77140c9476be",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\c0",
+    "size": 154,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\c0"
+  },
+  {
+    "name": "9069ef6f0ddb8bae7eb3111c7ed96313a316b9",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\c6",
+    "size": 393,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\c6"
+  },
+  {
+    "name": "ad93ba037aaaf4c2a1d62e14d62f40b8d224d2",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\ce",
+    "size": 490,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\ce"
+  },
+  {
+    "name": "2ce11eca4dfae5f6400dd0574a544f2e65b984",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\d2",
+    "size": 156,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\d2"
+  },
+  {
+    "name": "3f61dc1221faf9b37d17faec776288c17421c7",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\db",
+    "size": 267,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\db"
+  },
+  {
+    "name": "edfd1c0e45ff4dae3449b69c9711600187ae17",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\db",
+    "size": 163,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\db"
+  },
+  {
+    "name": "505ba7b3e69aa671f4b57d500fcb60523d15c7",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\de",
+    "size": 152,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\de"
+  },
+  {
+    "name": "1299871882a73ce1def2f4e200d184fc65220b",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\e3",
+    "size": 157,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\e3"
+  },
+  {
+    "name": "25706e486067ee25bb15b9d6ae336a02ce3daa",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\e3",
+    "size": 582,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\e3"
+  },
+  {
+    "name": "17da09ef2de44b1b97d7500fe45e34794eebc8",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\e4",
+    "size": 139,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\e4"
+  },
+  {
+    "name": "cd6e054fcef712d9474bcbf1428c7d4ccab289",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\e5",
+    "size": 137,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\e5"
+  },
+  {
+    "name": "9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\e6",
+    "size": 15,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\e6"
+  },
+  {
+    "name": "74f877b0303125defc9cbe5a134ad67155afae",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\ee",
+    "size": 107,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\ee"
+  },
+  {
+    "name": "27a6ca4a561c8d185247b27bfef2a9a07ce28f",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\f0",
+    "size": 301,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\f0"
+  },
+  {
+    "name": "8caf654fb6d1d517f50deb25af0c09e6dfdb95",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\f0",
+    "size": 80,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\f0"
+  },
+  {
+    "name": "4dca5a984a03406875beb3dcaf41a2d9abe9aa",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\f2",
+    "size": 55,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\f2"
+  },
+  {
+    "name": "8d126a735795da90448951d41fb7f1f32c8c1b",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\f2",
+    "size": 80,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\f2"
+  },
+  {
+    "name": "f8fcf47d75d5c934928e1545058ad8829d99a5",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\f6",
+    "size": 51,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\f6"
+  },
+  {
+    "name": "50cf77c3a6e5b69b8bd077def083c6a00d307c",
+    "path": "C:\\PythonHomeWork_T\\.git\\objects\\f9",
+    "size": 1654,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\objects\\f9"
+  },
+  {
+    "name": "heads",
+    "path": "C:\\PythonHomeWork_T\\.git\\refs",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\refs"
+  },
+  {
+    "name": "remotes",
+    "path": "C:\\PythonHomeWork_T\\.git\\refs",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\refs"
+  },
+  {
+    "name": "tags",
+    "path": "C:\\PythonHomeWork_T\\.git\\refs",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\refs"
+  },
+  {
+    "name": "main",
+    "path": "C:\\PythonHomeWork_T\\.git\\refs\\heads",
+    "size": 41,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\refs\\heads"
+  },
+  {
+    "name": "origin",
+    "path": "C:\\PythonHomeWork_T\\.git\\refs\\remotes",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.git\\refs\\remotes"
+  },
+  {
+    "name": "main",
+    "path": "C:\\PythonHomeWork_T\\.git\\refs\\remotes\\origin",
+    "size": 41,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.git\\refs\\remotes\\origin"
+  },
+  {
+    "name": "inspectionProfiles",
+    "path": "C:\\PythonHomeWork_T\\.idea",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\.idea"
+  },
+  {
+    "name": ".gitignore",
+    "path": "C:\\PythonHomeWork_T\\.idea",
+    "size": 50,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.idea"
+  },
+  {
+    "name": "misc.xml",
+    "path": "C:\\PythonHomeWork_T\\.idea",
+    "size": 188,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.idea"
+  },
+  {
+    "name": "modules.xml",
+    "path": "C:\\PythonHomeWork_T\\.idea",
+    "size": 291,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.idea"
+  },
+  {
+    "name": "PythonHomeWork_T.iml",
+    "path": "C:\\PythonHomeWork_T\\.idea",
+    "size": 291,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.idea"
+  },
+  {
+    "name": "vcs.xml",
+    "path": "C:\\PythonHomeWork_T\\.idea",
+    "size": 185,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.idea"
+  },
+  {
+    "name": "workspace.xml",
+    "path": "C:\\PythonHomeWork_T\\.idea",
+    "size": 9375,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.idea"
+  },
+  {
+    "name": "profiles_settings.xml",
+    "path": "C:\\PythonHomeWork_T\\.idea\\inspectionProfiles",
+    "size": 174,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\.idea\\inspectionProfiles"
+  },
+  {
+    "name": "__pycache__",
+    "path": "C:\\PythonHomeWork_T\\Homework1",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\Homework1"
+  },
+  {
+    "name": "hwtask1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework1",
+    "size": 1669,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1"
+  },
+  {
+    "name": "hwtask2.py",
+    "path": "C:\\PythonHomeWork_T\\Homework1",
+    "size": 1191,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1"
+  },
+  {
+    "name": "main.py",
+    "path": "C:\\PythonHomeWork_T\\Homework1",
+    "size": 74,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1"
+  },
+  {
+    "name": "task6.py",
+    "path": "C:\\PythonHomeWork_T\\Homework1",
+    "size": 1240,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1"
+  },
+  {
+    "name": "task8.py",
+    "path": "C:\\PythonHomeWork_T\\Homework1",
+    "size": 301,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1"
+  },
+  {
+    "name": "task9.py",
+    "path": "C:\\PythonHomeWork_T\\Homework1",
+    "size": 436,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1"
+  },
+  {
+    "name": "hwtask1.cpython-38.pyc",
+    "path": "C:\\PythonHomeWork_T\\Homework1\\__pycache__",
+    "size": 997,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1\\__pycache__"
+  },
+  {
+    "name": "hwtask2.cpython-38.pyc",
+    "path": "C:\\PythonHomeWork_T\\Homework1\\__pycache__",
+    "size": 826,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1\\__pycache__"
+  },
+  {
+    "name": "task6.cpython-38.pyc",
+    "path": "C:\\PythonHomeWork_T\\Homework1\\__pycache__",
+    "size": 712,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1\\__pycache__"
+  },
+  {
+    "name": "task8.cpython-38.pyc",
+    "path": "C:\\PythonHomeWork_T\\Homework1\\__pycache__",
+    "size": 317,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1\\__pycache__"
+  },
+  {
+    "name": "task9.cpython-38.pyc",
+    "path": "C:\\PythonHomeWork_T\\Homework1\\__pycache__",
+    "size": 416,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework1\\__pycache__"
+  },
+  {
+    "name": "__pycache__",
+    "path": "C:\\PythonHomeWork_T\\Homework2",
+    "size": 73728,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\Homework2"
+  },
+  {
+    "name": "hwtask1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework2",
+    "size": 1287,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework2"
+  },
+  {
+    "name": "hwtask2.py",
+    "path": "C:\\PythonHomeWork_T\\Homework2",
+    "size": 1825,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework2"
+  },
+  {
+    "name": "main.py",
+    "path": "C:\\PythonHomeWork_T\\Homework2",
+    "size": 44,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework2"
+  },
+  {
+    "name": "task6.py",
+    "path": "C:\\PythonHomeWork_T\\Homework2",
+    "size": 4530,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework2"
+  },
+  {
+    "name": "hwtask1.cpython-38.pyc",
+    "path": "C:\\PythonHomeWork_T\\Homework2\\__pycache__",
+    "size": 1013,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework2\\__pycache__"
+  },
+  {
+    "name": "hwtask2.cpython-38.pyc",
+    "path": "C:\\PythonHomeWork_T\\Homework2\\__pycache__",
+    "size": 1254,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework2\\__pycache__"
+  },
+  {
+    "name": "task6.cpython-38.pyc",
+    "path": "C:\\PythonHomeWork_T\\Homework2\\__pycache__",
+    "size": 3058,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework2\\__pycache__"
+  },
+  {
+    "name": "hwtask1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework3",
+    "size": 710,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework3"
+  },
+  {
+    "name": "hwtask2.py",
+    "path": "C:\\PythonHomeWork_T\\Homework3",
+    "size": 3328,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework3"
+  },
+  {
+    "name": "hwtask3.py",
+    "path": "C:\\PythonHomeWork_T\\Homework3",
+    "size": 1360,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework3"
+  },
+  {
+    "name": "task7.py",
+    "path": "C:\\PythonHomeWork_T\\Homework3",
+    "size": 1044,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework3"
+  },
+  {
+    "name": "task8.py",
+    "path": "C:\\PythonHomeWork_T\\Homework3",
+    "size": 2776,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework3"
+  },
+  {
+    "name": "hwtask1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework4",
+    "size": 896,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework4"
+  },
+  {
+    "name": "hwtask2.py",
+    "path": "C:\\PythonHomeWork_T\\Homework4",
+    "size": 426,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework4"
+  },
+  {
+    "name": "hwtask3.py",
+    "path": "C:\\PythonHomeWork_T\\Homework4",
+    "size": 4337,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework4"
+  },
+  {
+    "name": "task8.py",
+    "path": "C:\\PythonHomeWork_T\\Homework4",
+    "size": 435,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework4"
+  },
+  {
+    "name": "hwtask1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework5",
+    "size": 682,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework5"
+  },
+  {
+    "name": "hwtask2.py",
+    "path": "C:\\PythonHomeWork_T\\Homework5",
+    "size": 427,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework5"
+  },
+  {
+    "name": "hwtask3.py",
+    "path": "C:\\PythonHomeWork_T\\Homework5",
+    "size": 530,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework5"
+  },
+  {
+    "name": "file1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 114,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "file2.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 64,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "hwtask1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 993,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "hwtask2.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 1756,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "t1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 101,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "t2.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 756,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "t3.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 1605,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "t6.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 2266,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "t7.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 1768,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "__init__.py",
+    "path": "C:\\PythonHomeWork_T\\Homework6",
+    "size": 54,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework6"
+  },
+  {
+    "name": "hwt1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework7",
+    "size": 1276,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework7"
+  },
+  {
+    "name": "t1.py",
+    "path": "C:\\PythonHomeWork_T\\Homework7",
+    "size": 871,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework7"
+  },
+  {
+    "name": "t2.py",
+    "path": "C:\\PythonHomeWork_T\\Homework7",
+    "size": 990,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework7"
+  },
+  {
+    "name": "t3.py",
+    "path": "C:\\PythonHomeWork_T\\Homework7",
+    "size": 3304,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework7"
+  },
+  {
+    "name": "t4.py",
+    "path": "C:\\PythonHomeWork_T\\Homework7",
+    "size": 1557,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework7"
+  },
+  {
+    "name": "t5.py",
+    "path": "C:\\PythonHomeWork_T\\Homework7",
+    "size": 1413,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework7"
+  },
+  {
+    "name": "t6.py",
+    "path": "C:\\PythonHomeWork_T\\Homework7",
+    "size": 1221,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework7"
+  },
+  {
+    "name": "t7.py",
+    "path": "C:\\PythonHomeWork_T\\Homework7",
+    "size": 1108,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework7"
+  },
+  {
+    "name": "__init__.py",
+    "path": "C:\\PythonHomeWork_T\\Homework7",
+    "size": 46,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\Homework7"
+  },
+  {
+    "name": "task.py",
+    "path": "C:\\PythonHomeWork_T\\seminar3",
+    "size": 777,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar3"
+  },
+  {
+    "name": "task2.py",
+    "path": "C:\\PythonHomeWork_T\\seminar3",
+    "size": 1049,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar3"
+  },
+  {
+    "name": "task3.py",
+    "path": "C:\\PythonHomeWork_T\\seminar3",
+    "size": 532,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar3"
+  },
+  {
+    "name": "task4.py",
+    "path": "C:\\PythonHomeWork_T\\seminar3",
+    "size": 415,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar3"
+  },
+  {
+    "name": "task5.py",
+    "path": "C:\\PythonHomeWork_T\\seminar3",
+    "size": 505,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar3"
+  },
+  {
+    "name": "task6.py",
+    "path": "C:\\PythonHomeWork_T\\seminar3",
+    "size": 787,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar3"
+  },
+  {
+    "name": "task1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar4",
+    "size": 903,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar4"
+  },
+  {
+    "name": "task2.py",
+    "path": "C:\\PythonHomeWork_T\\seminar4",
+    "size": 585,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar4"
+  },
+  {
+    "name": "task3.py",
+    "path": "C:\\PythonHomeWork_T\\seminar4",
+    "size": 773,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar4"
+  },
+  {
+    "name": "task4.py",
+    "path": "C:\\PythonHomeWork_T\\seminar4",
+    "size": 822,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar4"
+  },
+  {
+    "name": "task5.py",
+    "path": "C:\\PythonHomeWork_T\\seminar4",
+    "size": 1014,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar4"
+  },
+  {
+    "name": "task6",
+    "path": "C:\\PythonHomeWork_T\\seminar4",
+    "size": 362,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar4"
+  },
+  {
+    "name": "task6.py",
+    "path": "C:\\PythonHomeWork_T\\seminar4",
+    "size": 697,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar4"
+  },
+  {
+    "name": "task7.py",
+    "path": "C:\\PythonHomeWork_T\\seminar4",
+    "size": 900,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar4"
+  },
+  {
+    "name": "task1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar5",
+    "size": 80,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar5"
+  },
+  {
+    "name": "task2.py",
+    "path": "C:\\PythonHomeWork_T\\seminar5",
+    "size": 605,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar5"
+  },
+  {
+    "name": "task4.py",
+    "path": "C:\\PythonHomeWork_T\\seminar5",
+    "size": 148,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar5"
+  },
+  {
+    "name": "task5.py",
+    "path": "C:\\PythonHomeWork_T\\seminar5",
+    "size": 660,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar5"
+  },
+  {
+    "name": "task6.py",
+    "path": "C:\\PythonHomeWork_T\\seminar5",
+    "size": 250,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar5"
+  },
+  {
+    "name": "task7.py",
+    "path": "C:\\PythonHomeWork_T\\seminar5",
+    "size": 1100,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar5"
+  },
+  {
+    "name": "__pycache__",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 0,
+    "file_or_dir": "DIR",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "file1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 114,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "file2.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 64,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "hwtask1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 993,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "hwtask2.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 1756,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "t1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 101,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "t2.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 756,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "t3.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 1605,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "t6.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 2266,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "t7.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 1768,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "__init__.py",
+    "path": "C:\\PythonHomeWork_T\\seminar6",
+    "size": 54,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6"
+  },
+  {
+    "name": "file1.cpython-38.pyc",
+    "path": "C:\\PythonHomeWork_T\\seminar6\\__pycache__",
+    "size": 321,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar6\\__pycache__"
+  },
+  {
+    "name": "hwt1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar7",
+    "size": 1276,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar7"
+  },
+  {
+    "name": "t1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar7",
+    "size": 871,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar7"
+  },
+  {
+    "name": "t2.py",
+    "path": "C:\\PythonHomeWork_T\\seminar7",
+    "size": 990,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar7"
+  },
+  {
+    "name": "t3.py",
+    "path": "C:\\PythonHomeWork_T\\seminar7",
+    "size": 3304,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar7"
+  },
+  {
+    "name": "t4.py",
+    "path": "C:\\PythonHomeWork_T\\seminar7",
+    "size": 1557,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar7"
+  },
+  {
+    "name": "t5.py",
+    "path": "C:\\PythonHomeWork_T\\seminar7",
+    "size": 1413,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar7"
+  },
+  {
+    "name": "t6.py",
+    "path": "C:\\PythonHomeWork_T\\seminar7",
+    "size": 1221,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar7"
+  },
+  {
+    "name": "t7.py",
+    "path": "C:\\PythonHomeWork_T\\seminar7",
+    "size": 1108,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar7"
+  },
+  {
+    "name": "__init__.py",
+    "path": "C:\\PythonHomeWork_T\\seminar7",
+    "size": 46,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar7"
+  },
+  {
+    "name": "Hw1_json_file.json",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 3227,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "Hw1_pickle_file.pickle",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 2168,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "hwt1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 1597,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "Hw_1_csv_file.csv",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 1478,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "my_csv.csv",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 53,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "new_json4.json",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 433,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "new_json4.pickle",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 212,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "s8t2.json",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 149,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "s8t2.pickle",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 102,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "t1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 930,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "t2.py",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 1754,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "t3.py",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 738,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "t4.py",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 1711,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "t5.py",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 1019,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "t6.csv",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 184,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "t6.py",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 1712,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "t7.py",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 601,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "__init__.py",
+    "path": "C:\\PythonHomeWork_T\\seminar8",
+    "size": 51,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar8"
+  },
+  {
+    "name": "gess_number.json",
+    "path": "C:\\PythonHomeWork_T\\seminar9",
+    "size": 280,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar9"
+  },
+  {
+    "name": "get_summ.json",
+    "path": "C:\\PythonHomeWork_T\\seminar9",
+    "size": 134,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar9"
+  },
+  {
+    "name": "t1.py",
+    "path": "C:\\PythonHomeWork_T\\seminar9",
+    "size": 1103,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar9"
+  },
+  {
+    "name": "t2.py",
+    "path": "C:\\PythonHomeWork_T\\seminar9",
+    "size": 1622,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar9"
+  },
+  {
+    "name": "t3.py",
+    "path": "C:\\PythonHomeWork_T\\seminar9",
+    "size": 1617,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar9"
+  },
+  {
+    "name": "t4.py",
+    "path": "C:\\PythonHomeWork_T\\seminar9",
+    "size": 672,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar9"
+  },
+  {
+    "name": "t5.py",
+    "path": "C:\\PythonHomeWork_T\\seminar9",
+    "size": 2518,
+    "file_or_dir": "FILE",
+    "parent": "C:\\PythonHomeWork_T\\seminar9"
+  }
+]
