@@ -23,12 +23,31 @@ def psevdo_gen(num_names: int, file_num: str) -> None:
 
                     f.write(f'{name.capitalize()}\n')
         else:
-            raise ValueError('Количество должно быть положительным!или не равно 0')
+            raise CountPsevdoValueError(num_names)
     else:
-        raise ValueError('Количество слов должно быть целого типа!')
+        raise CountPsevdoTypeError(num_names)
 
+
+
+class PsevdoGenException(Exception):
+    pass
+
+
+class CountPsevdoTypeError(PsevdoGenException):
+    def __init__(self, value):
+        self.value = value
+
+    def __str__(self):
+        return f'Параметр количество файлов фунции должен быть целого типа, а не {type(self.value)}'
+
+class CountPsevdoValueError(PsevdoGenException):
+    def __init__(self,value):
+       self.value = value
+
+    def __str__(self):
+        return f'Параметр количество файлов фунции  count = {self.value}  должен быть положительным'
 
 if __name__ == "__main__":
-    psevdo_gen('r', 'text_psevdo.txt')
+    #psevdo_gen('r', 'text_psevdo.txt')
     psevdo_gen(-6, 'text_psevdo.txt')
     psevdo_gen(6, 'text_psevdo.txt')
